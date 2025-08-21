@@ -34,3 +34,5 @@ figlet.text(
     console.log(data);
   }
 );
+
+console.log(process)
