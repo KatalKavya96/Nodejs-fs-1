@@ -18,6 +18,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "figlet": "^1.8.2"
+    "figlet": "^1.8.2",
+    "newtk": "^1.0.4"
   }
 }
