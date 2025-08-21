@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "figlet": "^1.8.2",
-    "newtk": "^1.0.4"
+    "newtk": "^1.0.4",
+    "ripplex-core": "^0.0.10"
   }
 }

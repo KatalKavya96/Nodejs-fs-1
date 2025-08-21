@@ -11,3 +11,7 @@ const result2 = mul(1,2)
 
 console.log(result1,result2)
 console.log(random())
+
+// Figlet
+
+const figlet = require("figlet")
