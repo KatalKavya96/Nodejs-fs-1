@@ -35,4 +35,3 @@ figlet.text(
   }
 );
 
-console.log(process)
