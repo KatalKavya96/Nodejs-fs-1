@@ -23,3 +23,5 @@ let data2 = answer(filePath2).then(data=>console.log(data))
 let data3 = answer(filePath3).then(data=>console.log(data))
 
 fs.writeFile(resultPath,data3+data2+data1,(err)=>{console.log(err)})
+
+// solved
